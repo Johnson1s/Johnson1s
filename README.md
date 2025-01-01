@@ -13,8 +13,8 @@
 - 🌱 I’m currently learning **Full Stack Development**.
 - 🔭 I’m working on various projects in **JavaScript, Python, and Java**.
 - 👯 I’m looking to collaborate on **open source projects**.
-- 💬 Ask me about **web development, algorithms, and data structures**.
-- 📫 How to reach me: [johnson1s@example.com](mailto:johnson1s@example.com)
+- 💬 Ask me about **web development, algoritms, and data structures**.
+- 📫 How to reach me: [johnsonezekiel13@gmail.com](johnsonezekiel13@gmail.com)
 - ⚡ Fun fact: I love hiking and exploring new places.
 
 ## Skills
